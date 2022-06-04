@@ -2,6 +2,8 @@
 
 This is a practice demo for using web3-storage client javascript API
 
+You can try this [Online Demo](https://react-web3-storage.herokuapp.com/)
+
 
 ## Install
 
